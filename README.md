@@ -1,8 +1,5 @@
 # 📊 Supply Chain Analytics — Análise Exploratória de Dados
 
-Olá me Chamo Felipe Banciella e esse é o meu projeto de analytics
-
-
 > Projeto de **análise de dados** aplicado a um cenário realista de **Supply Chain /
 > Demand Planning** em uma indústria de bens de consumo. A partir de dados de pedidos,
 > estoque, entregas e produtos, o projeto extrai insights acionáveis para apoiar a
@@ -126,3 +123,12 @@ jupyter notebook notebook/analise_supply_chain.ipynb
 - Automatizar a atualização dos dados com **Apache Airflow**.
 
 ---
+
+## 👤 Autor
+
+**Felipe Comenale Banciella**
+Estagiário em Demand Planning @ Unilever · Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
+Em transição para Análise / Engenharia de Dados.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-banciella)
+- 🐙 [GitHub](https://github.com/felipe-banciella)
