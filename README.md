@@ -59,18 +59,7 @@ supply-chain-analytics/
 ```
 
 ---
-
-## 📈 Prévia das Análises
-
-### Análise de Vendas
-![Vendas](https://github.com/banciella/Supply--Chain-Analytics/blob/main/04_vendas.png)
-
-### Matriz de Criticidade (Demanda x Estoque)
-![Críticos](docs/img/08_criticos.png)
-
-### Performance de Entrega (OTIF)
-![OTIF]([docs/img/07_otif.png](https://github.com/banciella/Supply--Chain-Analytics/blob/main/07_otif.png))
-
+## 📈 Análises nas imagens
 ---
 
 ## ▶️ Como Executar
