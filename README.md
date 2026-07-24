@@ -63,13 +63,13 @@ supply-chain-analytics/
 ## 📈 Prévia das Análises
 
 ### Análise de Vendas
-![Vendas] https://github.com/banciella/Supply--Chain-Analytics/blob/main/04_vendas.png
+![Vendas](https://github.com/banciella/Supply--Chain-Analytics/blob/main/04_vendas.png)
 
 ### Matriz de Criticidade (Demanda x Estoque)
 ![Críticos](docs/img/08_criticos.png)
 
 ### Performance de Entrega (OTIF)
-![OTIF](docs/img/07_otif.png)
+![OTIF]([docs/img/07_otif.png](https://github.com/banciella/Supply--Chain-Analytics/blob/main/07_otif.png))
 
 ---
 
@@ -121,14 +121,3 @@ jupyter notebook notebook/analise_supply_chain.ipynb
 - Migrar o processamento para **PySpark** para grandes volumes.
 - Construir um **dashboard interativo** no **Power BI**.
 - Automatizar a atualização dos dados com **Apache Airflow**.
-
----
-
-## 👤 Autor
-
-**Felipe Comenale Banciella**
-Estagiário em Demand Planning @ Unilever · Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
-Em transição para Análise / Engenharia de Dados.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-banciella)
-- 🐙 [GitHub](https://github.com/felipe-banciella)
