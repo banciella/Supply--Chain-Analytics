@@ -63,7 +63,7 @@ supply-chain-analytics/
 ## 📈 Prévia das Análises
 
 ### Análise de Vendas
-![Vendas](docs/img/04_vendas.png)
+![Vendas] https://github.com/banciella/Supply--Chain-Analytics/blob/main/04_vendas.png
 
 ### Matriz de Criticidade (Demanda x Estoque)
 ![Críticos](docs/img/08_criticos.png)
