@@ -57,11 +57,6 @@ supply-chain-analytics/
 └── docs/
     └── img/                        # Gráficos exportados da análise
 ```
-
----
-## 📈 Análises nas imagens
----
-
 ## ▶️ Como Executar
 
 ### Opção A — Google Colab (mais fácil, sem instalar nada) ☁️
